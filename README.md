@@ -23,7 +23,7 @@ git clone https://github.com/varunchowdaryms/password-security-analysis.git
 
 2. Navigate to the project directory
 
-cd password-security-analysis
+cd DataMining
 
 ## Usage
 To run the password analysis, execute:
